@@ -1,0 +1,31 @@
+{
+  "name": "高校财务问答数据集",
+  "language": "zh",
+  "institution": "东北大学",
+  "collection_month": "2026-04",
+  "documents": 86,
+  "questions": 349,
+  "question_types": {
+    "查询": 207,
+    "推理": 43,
+    "判断": 99
+  },
+  "document_categories": {
+    "服务指南": 37,
+    "审批表格": 29,
+    "": 1,
+    "校内规章制度": 18,
+    "未分类": 1
+  },
+  "files": {
+    "corpus.json": {
+      "sha256": "e6fbbb4c5a5f93dcc7aef8c15eb8cc2aca9d5258e7bb858fe2f802c27438d1d8"
+    },
+    "qa.json": {
+      "sha256": "bd605eff8b6119e85a1f01c2def38f6d68429987d69ed76856873256de24840f"
+    },
+    "catalog.json": {
+      "sha256": "696162fc6ee118b81884ebac4b3860bb2407fe034e43dfb16f420f8bf21e6676"
+    }
+  }
+}

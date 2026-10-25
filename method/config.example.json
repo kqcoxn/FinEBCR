@@ -1,0 +1,25 @@
+{
+  "dataset": "finqa",
+  "data_path": "",
+  "corpus_path": "",
+  "limit": 1,
+  "offset": 0,
+  "output_dir": "outputs",
+  "api": {
+    "base_url": "https://api.deepseek.com/v1",
+    "model": "your-model-id",
+    "api_key_env": "FINFUND_API_KEY",
+    "temperature": 0,
+    "max_input_tokens": 16000,
+    "max_output_tokens": 1536,
+    "timeout_seconds": 120,
+    "extra_body": {}
+  },
+  "runtime": {
+    "tokenizer": "Qwen/Qwen3-1.7B",
+    "reranker": "BAAI/bge-reranker-v2-m3",
+    "device": "auto",
+    "evidence_tokens": 3000,
+    "candidate_count": 40
+  }
+}

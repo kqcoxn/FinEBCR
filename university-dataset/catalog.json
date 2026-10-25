@@ -1,0 +1,521 @@
+[
+  {
+    "index": 0,
+    "title": "“票据预约管理”平台操作指南",
+    "category": "服务指南",
+    "characters": 2874
+  },
+  {
+    "index": 1,
+    "title": "“财务智能报销”日常报销操作指南",
+    "category": "服务指南",
+    "characters": 3256
+  },
+  {
+    "index": 2,
+    "title": "大仪平台校内转账操作指南",
+    "category": "服务指南",
+    "characters": 825
+  },
+  {
+    "index": 3,
+    "title": "差旅平台与智能报销操作指南",
+    "category": "服务指南",
+    "characters": 2541
+  },
+  {
+    "index": 4,
+    "title": "专利费报销指南",
+    "category": "服务指南",
+    "characters": 143
+  },
+  {
+    "index": 5,
+    "title": "交通费报销指南",
+    "category": "服务指南",
+    "characters": 344
+  },
+  {
+    "index": 6,
+    "title": "会员费（会费）报销指南",
+    "category": "服务指南",
+    "characters": 57
+  },
+  {
+    "index": 7,
+    "title": "会议注册费报销指南",
+    "category": "服务指南",
+    "characters": 42
+  },
+  {
+    "index": 8,
+    "title": "会议费报销指南",
+    "category": "服务指南",
+    "characters": 156
+  },
+  {
+    "index": 9,
+    "title": "党组织活动报销指南",
+    "category": "服务指南",
+    "characters": 298
+  },
+  {
+    "index": 10,
+    "title": "公务接待费报销指南",
+    "category": "服务指南",
+    "characters": 88
+  },
+  {
+    "index": 11,
+    "title": "加工费报销指南",
+    "category": "服务指南",
+    "characters": 76
+  },
+  {
+    "index": 12,
+    "title": "印刷费报销指南",
+    "category": "服务指南",
+    "characters": 81
+  },
+  {
+    "index": 13,
+    "title": "发票报销规范",
+    "category": "服务指南",
+    "characters": 669
+  },
+  {
+    "index": 14,
+    "title": "图书资料费报销指南",
+    "category": "服务指南",
+    "characters": 139
+  },
+  {
+    "index": 15,
+    "title": "培训费报销指南",
+    "category": "服务指南",
+    "characters": 228
+  },
+  {
+    "index": 16,
+    "title": "外协费报销指南",
+    "category": "服务指南",
+    "characters": 157
+  },
+  {
+    "index": 17,
+    "title": "学生活动费报销指南",
+    "category": "服务指南",
+    "characters": 137
+  },
+  {
+    "index": 18,
+    "title": "实习费和社会实践业务报销指南",
+    "category": "服务指南",
+    "characters": 507
+  },
+  {
+    "index": 19,
+    "title": "工作研究费（含加班用餐）报销指南",
+    "category": "服务指南",
+    "characters": 234
+  },
+  {
+    "index": 20,
+    "title": "投标保证金借款报销指南",
+    "category": "服务指南",
+    "characters": 100
+  },
+  {
+    "index": 21,
+    "title": "报销票据粘贴指南",
+    "category": "服务指南",
+    "characters": 755
+  },
+  {
+    "index": 22,
+    "title": "支付方式",
+    "category": "服务指南",
+    "characters": 222
+  },
+  {
+    "index": 23,
+    "title": "材料费及办公用品报销指南",
+    "category": "服务指南",
+    "characters": 518
+  },
+  {
+    "index": 24,
+    "title": "校内经费转账报销指南",
+    "category": "服务指南",
+    "characters": 589
+  },
+  {
+    "index": 25,
+    "title": "测试费报销指南",
+    "category": "服务指南",
+    "characters": 155
+  },
+  {
+    "index": 26,
+    "title": "版面费报销指南",
+    "category": "服务指南",
+    "characters": 47
+  },
+  {
+    "index": 27,
+    "title": "科研学术活动费报销指南",
+    "category": "服务指南",
+    "characters": 125
+  },
+  {
+    "index": 28,
+    "title": "签字及印章备案操作流程",
+    "category": "服务指南",
+    "characters": 340
+  },
+  {
+    "index": 29,
+    "title": "设备维修费报销指南",
+    "category": "服务指南",
+    "characters": 224
+  },
+  {
+    "index": 30,
+    "title": "设备贴息贷款业务注意事项",
+    "category": "服务指南",
+    "characters": 578
+  },
+  {
+    "index": 31,
+    "title": "设备费报销指南",
+    "category": "服务指南",
+    "characters": 384
+  },
+  {
+    "index": 32,
+    "title": "质保金到期支付报销指南",
+    "category": "服务指南",
+    "characters": 145
+  },
+  {
+    "index": 33,
+    "title": "车辆维持费报销指南",
+    "category": "服务指南",
+    "characters": 416
+  },
+  {
+    "index": 34,
+    "title": "邮电费报销指南",
+    "category": "服务指南",
+    "characters": 311
+  },
+  {
+    "index": 35,
+    "title": "东北大学仪器设备维修申请单（维修费1万元以下）",
+    "category": "审批表格",
+    "characters": 599
+  },
+  {
+    "index": 36,
+    "title": "东北大学仪器设备维修申请单（维修费1万元及以上）",
+    "category": "审批表格",
+    "characters": 1116
+  },
+  {
+    "index": 37,
+    "title": "东北大学仪器设备维修验收报告（维修费1万元及以上或设备原值在40万元及以上）",
+    "category": "审批表格",
+    "characters": 1082
+  },
+  {
+    "index": 38,
+    "title": "东北大学会议费预、决算审批表",
+    "category": "审批表格",
+    "characters": 2032
+  },
+  {
+    "index": 39,
+    "title": "东北大学分散实习（实践）经费汇总结算表",
+    "category": "审批表格",
+    "characters": 193
+  },
+  {
+    "index": 40,
+    "title": "东北大学加班用餐报销审批清单",
+    "category": "审批表格",
+    "characters": 221
+  },
+  {
+    "index": 41,
+    "title": "东北大学因公临时出国公务宴请审批表",
+    "category": "审批表格",
+    "characters": 568
+  },
+  {
+    "index": 42,
+    "title": "东北大学因公临时出国费用核销明细表",
+    "category": "审批表格",
+    "characters": 662
+  },
+  {
+    "index": 43,
+    "title": "东北大学因公临时出国（境）任务审批意见表",
+    "category": "审批表格",
+    "characters": 3564
+  },
+  {
+    "index": 44,
+    "title": "东北大学因公临时出国（境）预算审批意见表",
+    "category": "审批表格",
+    "characters": 2378
+  },
+  {
+    "index": 45,
+    "title": "东北大学因公临时出国（境）预算审批意见表（样表）",
+    "category": "审批表格",
+    "characters": 5019
+  },
+  {
+    "index": 46,
+    "title": "东北大学因公临时出国（境）预算审批意见表",
+    "category": "审批表格",
+    "characters": 2595
+  },
+  {
+    "index": 47,
+    "title": "东北大学学生因公临时出国（境）预算审批意见表（样表）",
+    "category": "审批表格",
+    "characters": 5175
+  },
+  {
+    "index": 48,
+    "title": "东北大学因公出差审批表",
+    "category": "",
+    "characters": 3823
+  },
+  {
+    "index": 49,
+    "title": "东北大学国内公务接待（审批）清单",
+    "category": "审批表格",
+    "characters": 788
+  },
+  {
+    "index": 50,
+    "title": "东北大学培训费预、决算审批表",
+    "category": "审批表格",
+    "characters": 609
+  },
+  {
+    "index": 51,
+    "title": "东北大学基层党组织党建经费预、决算审批表",
+    "category": "审批表格",
+    "characters": 830
+  },
+  {
+    "index": 52,
+    "title": "附件2：",
+    "category": "审批表格",
+    "characters": 679
+  },
+  {
+    "index": 53,
+    "title": "东北大学横向科研业务接待审批单",
+    "category": "审批表格",
+    "characters": 338
+  },
+  {
+    "index": 54,
+    "title": "东北大学民主党派基层组织、统战团体活动经费预、决算审批表",
+    "category": "审批表格",
+    "characters": 814
+  },
+  {
+    "index": 55,
+    "title": "东北大学甲方仪器设备到货和技术验收单",
+    "category": "审批表格",
+    "characters": 553
+  },
+  {
+    "index": 56,
+    "title": "东北大学票据缺失报销审批表",
+    "category": "审批表格",
+    "characters": 361
+  },
+  {
+    "index": 57,
+    "title": "东北大学票据丢失报销申请表",
+    "category": "审批表格",
+    "characters": 1139
+  },
+  {
+    "index": 58,
+    "title": "东北大学科研业务工作餐审批清单",
+    "category": "审批表格",
+    "characters": 222
+  },
+  {
+    "index": 59,
+    "title": "东北大学聘请国内专家学术交流审批表",
+    "category": "审批表格",
+    "characters": 752
+  },
+  {
+    "index": 60,
+    "title": "东北大学车辆维持费报销单",
+    "category": "审批表格",
+    "characters": 527
+  },
+  {
+    "index": 61,
+    "title": "东北大学集中实习（实践）经费汇总结算单",
+    "category": "审批表格",
+    "characters": 394
+  },
+  {
+    "index": 62,
+    "title": "凭证粘贴纸",
+    "category": "审批表格",
+    "characters": 867
+  },
+  {
+    "index": 63,
+    "title": "无法按照仪器设备入账管理的情况说明",
+    "category": "审批表格",
+    "characters": 516
+  },
+  {
+    "index": 64,
+    "title": "租车报销审批单",
+    "category": "审批表格",
+    "characters": 259
+  },
+  {
+    "index": 65,
+    "title": "东北大学会议费管理办法",
+    "category": "校内规章制度",
+    "characters": 5615
+  },
+  {
+    "index": 66,
+    "title": "KM_C364e-20211229143529",
+    "category": "校内规章制度",
+    "characters": 1914
+  },
+  {
+    "index": 67,
+    "title": "东北大学公务卡管理办法",
+    "category": "校内规章制度",
+    "characters": 4183
+  },
+  {
+    "index": 68,
+    "title": "东北大学公务用车管理办法",
+    "category": "校内规章制度",
+    "characters": 2885
+  },
+  {
+    "index": 69,
+    "title": "东北大学基本科研业务费管理办法",
+    "category": "校内规章制度",
+    "characters": 4490
+  },
+  {
+    "index": 70,
+    "title": "东北大学外事接待管理办法",
+    "category": "校内规章制度",
+    "characters": 3295
+  },
+  {
+    "index": 71,
+    "title": "东北大学学院预算经费拨款管理办法",
+    "category": "校内规章制度",
+    "characters": 849
+  },
+  {
+    "index": 72,
+    "title": "东北大学差旅费管理办法",
+    "category": "校内规章制度",
+    "characters": 7932
+  },
+  {
+    "index": 73,
+    "title": "东北大学收费管理办法",
+    "category": "校内规章制度",
+    "characters": 3597
+  },
+  {
+    "index": 74,
+    "title": "东北大学暂付款管理办法",
+    "category": "校内规章制度",
+    "characters": 2232
+  },
+  {
+    "index": 75,
+    "title": "东北大学科研项目劳务费发放管理办法",
+    "category": "校内规章制度",
+    "characters": 1732
+  },
+  {
+    "index": 76,
+    "title": "东北大学纵向科研项目间接费用管理办法",
+    "category": "校内规章制度",
+    "characters": 2617
+  },
+  {
+    "index": 77,
+    "title": "东北大学关于加强公务机票购买管理有关事项的通知",
+    "category": "未分类",
+    "characters": 1728,
+    "source": "东北大学党委办公室、校长办公室",
+    "author": "山姗",
+    "published_at": "2025-09-05"
+  },
+  {
+    "index": 78,
+    "title": "东北大学关于加强公务机票购买管理有关事项的通知解读",
+    "category": "服务指南",
+    "characters": 2531
+  },
+  {
+    "index": 79,
+    "title": "东北大学关于完善科研仪器设备采购管理的若干规定",
+    "category": "校内规章制度",
+    "characters": 4645
+  },
+  {
+    "index": 80,
+    "title": "东北大学国内公务接待管理办法",
+    "category": "校内规章制度",
+    "characters": 2472
+  },
+  {
+    "index": 81,
+    "title": "东北大学横向科研经费管理办法",
+    "category": "校内规章制度",
+    "characters": 10603
+  },
+  {
+    "index": 82,
+    "title": "东北大学纵向科研经费预算编制与预算调整管理办法",
+    "category": "校内规章制度",
+    "characters": 4469
+  },
+  {
+    "index": 83,
+    "title": "东北大学项目预算评审管理办法",
+    "category": "校内规章制度",
+    "characters": 4042
+  },
+  {
+    "index": 84,
+    "title": "东北大学横向科研业务接待管理办法",
+    "category": "校内规章制度",
+    "characters": 1285
+  },
+  {
+    "index": 85,
+    "title": "培训费报销指南",
+    "category": "服务指南",
+    "characters": 228
+  }
+]
